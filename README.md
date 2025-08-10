@@ -1,6 +1,5 @@
 # Drakopepe ($DPEP) — Whitepaper & Technical Overview
 
-**Version:** 1.0 (Initial)  
 **Date:** 2025-08-10  
 **Website:** https://drakopepe.org/  
 **Symbol:** DPEP · **Unit:** Drako
