@@ -144,7 +144,7 @@ algo=scrypt
 
 ## Explorer
 Add the official explorer URL when finalized, e.g.:  
-`https://explorer.drakopepe.org/` *(placeholder)*
+https://explorer.drakopepe.org/
 
 ---
 
